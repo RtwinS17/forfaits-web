@@ -1,0 +1,38 @@
+body {
+    width: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.header {
+    padding: 5px 5px 5px 5px;
+}
+
+.ope {
+    
+}
+
+h1 {
+    color: #1554ff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30pt;
+    margin-bottom: -10px;
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:darkgrey
+    
+}
+
+.pmini {
+    width: 300px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    position: relative;
+    margin-left: 66%;
+    padding: 5px ;
+    border: 0.5px solid grey;
+    box-shadow: 2px 2px 3px grey ;
+}
